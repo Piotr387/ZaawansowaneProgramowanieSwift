@@ -12,6 +12,7 @@
 		AE1C43B22BDD4E830003D97F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE1C43B12BDD4E830003D97F /* Assets.xcassets */; };
 		AE1C43B52BDD4E830003D97F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE1C43B42BDD4E830003D97F /* Preview Assets.xcassets */; };
 		AE1C43BC2BDD516D0003D97F /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1C43BB2BDD516D0003D97F /* CardView.swift */; };
+		AE1C43BE2BDD66640003D97F /* ThemeChangeViewButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1C43BD2BDD66640003D97F /* ThemeChangeViewButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		AE1C43B12BDD4E830003D97F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE1C43B42BDD4E830003D97F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AE1C43BB2BDD516D0003D97F /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		AE1C43BD2BDD66640003D97F /* ThemeChangeViewButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeChangeViewButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				AE1C43B12BDD4E830003D97F /* Assets.xcassets */,
 				AE1C43B32BDD4E830003D97F /* Preview Content */,
 				AE1C43BB2BDD516D0003D97F /* CardView.swift */,
+				AE1C43BD2BDD66640003D97F /* ThemeChangeViewButton.swift */,
 			);
 			path = ZaawansowaneProgramowanieSwift;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				AE1C43B02BDD4E820003D97F /* ContentView.swift in Sources */,
 				AE1C43BC2BDD516D0003D97F /* CardView.swift in Sources */,
+				AE1C43BE2BDD66640003D97F /* ThemeChangeViewButton.swift in Sources */,
 				AE1C43AE2BDD4E820003D97F /* ZaawansowaneProgramowanieSwiftApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
