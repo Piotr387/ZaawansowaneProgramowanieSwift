@@ -11,6 +11,7 @@
 		AE1C43B02BDD4E820003D97F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1C43AF2BDD4E820003D97F /* ContentView.swift */; };
 		AE1C43B22BDD4E830003D97F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE1C43B12BDD4E830003D97F /* Assets.xcassets */; };
 		AE1C43B52BDD4E830003D97F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE1C43B42BDD4E830003D97F /* Preview Assets.xcassets */; };
+		AE1C43BC2BDD516D0003D97F /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1C43BB2BDD516D0003D97F /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AE1C43AF2BDD4E820003D97F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AE1C43B12BDD4E830003D97F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE1C43B42BDD4E830003D97F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AE1C43BB2BDD516D0003D97F /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				AE1C43AF2BDD4E820003D97F /* ContentView.swift */,
 				AE1C43B12BDD4E830003D97F /* Assets.xcassets */,
 				AE1C43B32BDD4E830003D97F /* Preview Content */,
+				AE1C43BB2BDD516D0003D97F /* CardView.swift */,
 			);
 			path = ZaawansowaneProgramowanieSwift;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE1C43B02BDD4E820003D97F /* ContentView.swift in Sources */,
+				AE1C43BC2BDD516D0003D97F /* CardView.swift in Sources */,
 				AE1C43AE2BDD4E820003D97F /* ZaawansowaneProgramowanieSwiftApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
