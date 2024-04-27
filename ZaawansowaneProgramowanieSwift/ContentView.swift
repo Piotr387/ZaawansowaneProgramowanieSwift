@@ -73,20 +73,9 @@ struct ContentView: View {
             }
         }.foregroundColor(color)
     }
-
-    
-    // Kolor i tło kart zależne od wybranego tematu
-    var cardColor: Color {
-        emoji.isEmpty ? .black : .white
-    }
-    
-    var cardBackgroundColor: Color {
-        emoji.isEmpty ? .white : .black
-    }
     
     // Zmiana tematu i przetasowanie kart
     func changeTheme(to theme: [String]) {
-        emoji = [].shuffled()
         emoji = theme.shuffled()
     }
     
